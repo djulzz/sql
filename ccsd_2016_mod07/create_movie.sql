@@ -36,3 +36,5 @@ create table Critics
 -- |           | 1      oo|            |
 -- | Director  | -------> | Movie      |
 -- +-----------| (directs)+------------+
+
+-- FV -- Taking it over from here
